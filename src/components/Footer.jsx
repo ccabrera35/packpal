@@ -1,9 +1,9 @@
 export default function Footer() {
   return (
     <footer>
-      <small>&copy; 2050. Copyright.</small>
+      <small>&copy; {new Date().getFullYear()} Packpal Copyright.</small>
       <p>
-        Version <b>1.5</b>
+        Version <b>1.0</b>
       </p>
     </footer>
   );

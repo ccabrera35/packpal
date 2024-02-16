@@ -1,3 +1,3 @@
 export default function BackgroundHeading() {
-  return <h1>Trekbag</h1>;
+  return <h1>Packpal</h1>;
 }
